@@ -24,11 +24,12 @@ MonoBehaviour:
   GenerateAssetsProject: 0
   FixLocalDiskPackages: 0
   ImageCachePath: Library/MarkdownImageCache
-  CachedImageCount: 0
-  CacheSize: 0
+  CachedImageCount: 68
+  CacheSize: 5.95
   MarkdownOpenMode: 1
   SelectedPipeline: {fileID: 0}
-  SelectedManifest: {fileID: 0}
+  SelectedManifest: {fileID: 11400000, guid: 83a8b0e0d6982304d9e18b72c8f10a67, type: 2}
   QuickAccessPipelines: []
-  QuickAccessManifests: []
+  QuickAccessManifests:
+  - {fileID: 11400000, guid: 83a8b0e0d6982304d9e18b72c8f10a67, type: 2}
   ImportConfiguration: {fileID: 0}

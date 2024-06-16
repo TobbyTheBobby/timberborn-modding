@@ -1,0 +1,26 @@
+{
+    "name": "TimberbornThunderkitExtension",
+    "rootNamespace": "",
+    "references": [
+        "ThunderKit.Core",
+        "ThunderKit.Common",
+        "ThunderKit.Markdown",
+        "ToolbarExtender.Editor",
+        "BsDiff",
+        "ThunderKit.Thunderstore"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "SharpCompress.dll",
+        "Modio.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
