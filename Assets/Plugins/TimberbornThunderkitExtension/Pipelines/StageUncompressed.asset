@@ -10,13 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3695521163bdd74fa2845bbd3438240, type: 3}
-  m_Name: Stage
+  m_Name: StageUncompressed
   m_EditorClassIdentifier: 
   Data:
   - {fileID: 114643622350610336}
   - {fileID: 114520525572577756}
   - {fileID: 114537630434205182}
   - {fileID: 114366308522735304}
+  - {fileID: 292571268747159480}
   QuickAccess: 0
   manifest: {fileID: 11400000, guid: b9b73eebf85f9df488fc243573a756bb, type: 2}
 --- !u!114 &114366308522735304
@@ -95,3 +96,18 @@ MonoBehaviour:
   m_Name: StageThunderstoreManifest
   m_EditorClassIdentifier: 
   Active: 1
+--- !u!114 &292571268747159480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da939a328ece42029cb2feefb41403b0, type: 3}
+  m_Name: ProjectBuilder
+  m_EditorClassIdentifier: 
+  Active: 1
+  BuildDirectory: ModsBuild
+  BuildName: TimberbornModExamples

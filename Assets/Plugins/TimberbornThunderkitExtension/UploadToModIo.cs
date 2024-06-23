@@ -9,7 +9,6 @@ using SharpCompress.Common;
 using SharpCompress.Writers;
 using ThunderKit.Core.Attributes;
 using ThunderKit.Core.Data;
-using ThunderKit.Core.Manifests.Datum;
 using ThunderKit.Core.Paths;
 using ThunderKit.Core.Pipelines;
 using UnityEditor;

@@ -7,7 +7,11 @@
         "ThunderKit.Markdown",
         "ToolbarExtender.Editor",
         "BsDiff",
-        "ThunderKit.Thunderstore"
+        "ThunderKit.Thunderstore",
+        "ModBuilding.Editor",
+        "Unity.EditorCoroutines.Editor",
+        "com.rlabrecque.steamworks.net.editor",
+        "com.rlabrecque.steamworks.net"
     ],
     "includePlatforms": [
         "Editor"
@@ -17,7 +21,8 @@
     "overrideReferences": true,
     "precompiledReferences": [
         "SharpCompress.dll",
-        "Modio.dll"
+        "Modio.dll",
+        "Timberborn.SteamWorkshop.dll"
     ],
     "autoReferenced": true,
     "defineConstraints": [],
